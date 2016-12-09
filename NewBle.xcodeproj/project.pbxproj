@@ -12,9 +12,20 @@
 		4547AD1C1C3E4F41003E91E0 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4547AD1B1C3E4F41003E91E0 /* ViewController.m */; };
 		4547AD1F1C3E4F41003E91E0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4547AD1D1C3E4F41003E91E0 /* Main.storyboard */; };
 		4547AD211C3E4F42003E91E0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4547AD201C3E4F42003E91E0 /* Assets.xcassets */; };
-		4547AD241C3E4F42003E91E0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4547AD221C3E4F42003E91E0 /* LaunchScreen.storyboard */; };
 		4547AD2F1C3E4F42003E91E0 /* NewBleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4547AD2E1C3E4F42003E91E0 /* NewBleTests.m */; };
 		4547AD3A1C3E4F43003E91E0 /* NewBleUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4547AD391C3E4F43003E91E0 /* NewBleUITests.m */; };
+		4547AD491C3E4FD2003E91E0 /* MyBluetoothClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 4547AD481C3E4FD2003E91E0 /* MyBluetoothClass.m */; };
+		4547AD4A1C3E4FD2003E91E0 /* MyBluetoothClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 4547AD481C3E4FD2003E91E0 /* MyBluetoothClass.m */; };
+		4547AD4B1C3E4FD2003E91E0 /* MyBluetoothClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 4547AD481C3E4FD2003E91E0 /* MyBluetoothClass.m */; };
+		4547AD511C46720E003E91E0 /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4547AD501C46720E003E91E0 /* FirstViewController.m */; };
+		4547AD521C46720E003E91E0 /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4547AD501C46720E003E91E0 /* FirstViewController.m */; };
+		4547AD531C46720E003E91E0 /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4547AD501C46720E003E91E0 /* FirstViewController.m */; };
+		4547AD641C469E05003E91E0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4547AD621C469E05003E91E0 /* LaunchScreen.storyboard */; };
+		4547AD651C469E05003E91E0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4547AD621C469E05003E91E0 /* LaunchScreen.storyboard */; };
+		4547AD661C469E05003E91E0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4547AD621C469E05003E91E0 /* LaunchScreen.storyboard */; };
+		4547AD731C47E45C003E91E0 /* MyDevice.m in Sources */ = {isa = PBXBuildFile; fileRef = 4547AD721C47E45C003E91E0 /* MyDevice.m */; };
+		4547AD741C47E45C003E91E0 /* MyDevice.m in Sources */ = {isa = PBXBuildFile; fileRef = 4547AD721C47E45C003E91E0 /* MyDevice.m */; };
+		4547AD751C47E45C003E91E0 /* MyDevice.m in Sources */ = {isa = PBXBuildFile; fileRef = 4547AD721C47E45C003E91E0 /* MyDevice.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,7 +54,6 @@
 		4547AD1B1C3E4F41003E91E0 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		4547AD1E1C3E4F41003E91E0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		4547AD201C3E4F42003E91E0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		4547AD231C3E4F42003E91E0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4547AD251C3E4F42003E91E0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4547AD2A1C3E4F42003E91E0 /* NewBleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NewBleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4547AD2E1C3E4F42003E91E0 /* NewBleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NewBleTests.m; sourceTree = "<group>"; };
@@ -51,6 +61,13 @@
 		4547AD351C3E4F43003E91E0 /* NewBleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NewBleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4547AD391C3E4F43003E91E0 /* NewBleUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NewBleUITests.m; sourceTree = "<group>"; };
 		4547AD3B1C3E4F43003E91E0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4547AD471C3E4FD2003E91E0 /* MyBluetoothClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyBluetoothClass.h; sourceTree = "<group>"; };
+		4547AD481C3E4FD2003E91E0 /* MyBluetoothClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyBluetoothClass.m; sourceTree = "<group>"; };
+		4547AD4F1C46720E003E91E0 /* FirstViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
+		4547AD501C46720E003E91E0 /* FirstViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
+		4547AD631C469E05003E91E0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		4547AD711C47E45C003E91E0 /* MyDevice.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyDevice.h; sourceTree = "<group>"; };
+		4547AD721C47E45C003E91E0 /* MyDevice.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyDevice.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,13 +118,12 @@
 		4547AD131C3E4F41003E91E0 /* NewBle */ = {
 			isa = PBXGroup;
 			children = (
+				4547AD4E1C3EA7C0003E91E0 /* mainview */,
+				4547AD4C1C3EA78F003E91E0 /* extern protocol */,
 				4547AD171C3E4F41003E91E0 /* AppDelegate.h */,
+				4547AD621C469E05003E91E0 /* LaunchScreen.storyboard */,
 				4547AD181C3E4F41003E91E0 /* AppDelegate.m */,
-				4547AD1A1C3E4F41003E91E0 /* ViewController.h */,
-				4547AD1B1C3E4F41003E91E0 /* ViewController.m */,
-				4547AD1D1C3E4F41003E91E0 /* Main.storyboard */,
 				4547AD201C3E4F42003E91E0 /* Assets.xcassets */,
-				4547AD221C3E4F42003E91E0 /* LaunchScreen.storyboard */,
 				4547AD251C3E4F42003E91E0 /* Info.plist */,
 				4547AD141C3E4F41003E91E0 /* Supporting Files */,
 			);
@@ -138,6 +154,29 @@
 				4547AD3B1C3E4F43003E91E0 /* Info.plist */,
 			);
 			path = NewBleUITests;
+			sourceTree = "<group>";
+		};
+		4547AD4C1C3EA78F003E91E0 /* extern protocol */ = {
+			isa = PBXGroup;
+			children = (
+				4547AD471C3E4FD2003E91E0 /* MyBluetoothClass.h */,
+				4547AD481C3E4FD2003E91E0 /* MyBluetoothClass.m */,
+				4547AD711C47E45C003E91E0 /* MyDevice.h */,
+				4547AD721C47E45C003E91E0 /* MyDevice.m */,
+			);
+			name = "extern protocol";
+			sourceTree = "<group>";
+		};
+		4547AD4E1C3EA7C0003E91E0 /* mainview */ = {
+			isa = PBXGroup;
+			children = (
+				4547AD1A1C3E4F41003E91E0 /* ViewController.h */,
+				4547AD1B1C3E4F41003E91E0 /* ViewController.m */,
+				4547AD1D1C3E4F41003E91E0 /* Main.storyboard */,
+				4547AD4F1C46720E003E91E0 /* FirstViewController.h */,
+				4547AD501C46720E003E91E0 /* FirstViewController.m */,
+			);
+			name = mainview;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -207,6 +246,7 @@
 				TargetAttributes = {
 					4547AD101C3E4F41003E91E0 = {
 						CreatedOnToolsVersion = 7.1;
+						DevelopmentTeam = 9KPK82HSG8;
 					};
 					4547AD291C3E4F42003E91E0 = {
 						CreatedOnToolsVersion = 7.1;
@@ -243,7 +283,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4547AD241C3E4F42003E91E0 /* LaunchScreen.storyboard in Resources */,
+				4547AD641C469E05003E91E0 /* LaunchScreen.storyboard in Resources */,
 				4547AD211C3E4F42003E91E0 /* Assets.xcassets in Resources */,
 				4547AD1F1C3E4F41003E91E0 /* Main.storyboard in Resources */,
 			);
@@ -253,6 +293,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4547AD651C469E05003E91E0 /* LaunchScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,6 +301,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4547AD661C469E05003E91E0 /* LaunchScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,7 +314,10 @@
 			files = (
 				4547AD1C1C3E4F41003E91E0 /* ViewController.m in Sources */,
 				4547AD191C3E4F41003E91E0 /* AppDelegate.m in Sources */,
+				4547AD511C46720E003E91E0 /* FirstViewController.m in Sources */,
 				4547AD161C3E4F41003E91E0 /* main.m in Sources */,
+				4547AD731C47E45C003E91E0 /* MyDevice.m in Sources */,
+				4547AD491C3E4FD2003E91E0 /* MyBluetoothClass.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -281,6 +326,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				4547AD2F1C3E4F42003E91E0 /* NewBleTests.m in Sources */,
+				4547AD521C46720E003E91E0 /* FirstViewController.m in Sources */,
+				4547AD4A1C3E4FD2003E91E0 /* MyBluetoothClass.m in Sources */,
+				4547AD741C47E45C003E91E0 /* MyDevice.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -289,6 +337,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				4547AD3A1C3E4F43003E91E0 /* NewBleUITests.m in Sources */,
+				4547AD531C46720E003E91E0 /* FirstViewController.m in Sources */,
+				4547AD4B1C3E4FD2003E91E0 /* MyBluetoothClass.m in Sources */,
+				4547AD751C47E45C003E91E0 /* MyDevice.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -316,10 +367,10 @@
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		4547AD221C3E4F42003E91E0 /* LaunchScreen.storyboard */ = {
+		4547AD621C469E05003E91E0 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				4547AD231C3E4F42003E91E0 /* Base */,
+				4547AD631C469E05003E91E0 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -411,10 +462,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = NewBle/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = lok.NewBle;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -422,10 +477,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = NewBle/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = lok.NewBle;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};
@@ -496,6 +555,7 @@
 				4547AD401C3E4F43003E91E0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4547AD411C3E4F43003E91E0 /* Build configuration list for PBXNativeTarget "NewBleTests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +564,7 @@
 				4547AD431C3E4F43003E91E0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4547AD441C3E4F43003E91E0 /* Build configuration list for PBXNativeTarget "NewBleUITests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +573,7 @@
 				4547AD461C3E4F43003E91E0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
