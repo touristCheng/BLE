@@ -120,8 +120,8 @@
 			children = (
 				4547AD4E1C3EA7C0003E91E0 /* mainview */,
 				4547AD4C1C3EA78F003E91E0 /* extern protocol */,
-				4547AD171C3E4F41003E91E0 /* AppDelegate.h */,
 				4547AD621C469E05003E91E0 /* LaunchScreen.storyboard */,
+				4547AD171C3E4F41003E91E0 /* AppDelegate.h */,
 				4547AD181C3E4F41003E91E0 /* AppDelegate.m */,
 				4547AD201C3E4F42003E91E0 /* Assets.xcassets */,
 				4547AD251C3E4F42003E91E0 /* Info.plist */,
